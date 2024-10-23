@@ -1,0 +1,1 @@
+# Gerenciamento-de-um-banco-de-dados-de-dispositivos
